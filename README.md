@@ -10,4 +10,4 @@ le système est basé sur
 Schéma de cablage
 ![alt tag](https://github.com/famibelle/MoodLight/blob/master/Mood%20Light_bb.png)
 
-demonstration live du prototype : ![ScreenShot](https://vine.co/v/eYmKMLUTHUx)
+demonstration live du prototype : [sur le vif](https://vine.co/v/eYmKMLUTHUx)
